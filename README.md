@@ -2,9 +2,9 @@
 
 
 
-![Tux, the Linux mascot](/Demo/0.png)
-![Tux, the Linux mascot](/Demo/1.png)
-![Tux, the Linux mascot](/Demo/2.png)
+![Tux, the Linux mascot](/demo/calming.png)
+![Tux, the Linux mascot](/demo/relax.png)
+![Tux, the Linux mascot](/demo/clear_mind.png)
 
 
 
